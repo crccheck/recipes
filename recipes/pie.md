@@ -12,3 +12,14 @@
 ## Cherry Filling, from frozen cherries
 + 3 packs of frozen cherries (3 * 1.75 cups)
 + 1/8 T almond extract
+
+
+## Free-Form Pear Gorgonzola
++ ~1.5 pears, sliced
++ ~1 T Gorgonzola cheese (to taste)
++ 2 T sugar (to taste)
++ 1 pie crust (single)
+-- roll pie crust
+-- sprinkle pears and cheese and sugar
+-- curl edges of pie crust on top (no waste!)
+-- bake at 375° F for about 45 minutes
