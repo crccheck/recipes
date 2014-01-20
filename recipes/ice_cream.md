@@ -34,3 +34,14 @@ Modify the [base custard] with:
 Add the donut after the the custard is made and strained. Adding it early will
 make the resulting ice cream a little gummy. I guess some gluten can still
 develop after baking.
+
+
+## Blood Orange Sorbet
+
+Taken from my gelato maker's instruction manual.
+
+  + 1 2/3 C orange juice (about 6 blood oranges)
+  + 1/2 C heavy cream
+  + 1/2 C sugar
+
+mix and churn
