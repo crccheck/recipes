@@ -23,7 +23,7 @@
   -- churn
 
 
-## Donut Ice Cream
+# Donut Ice Cream
 
 Modify the [base custard] with:
 
@@ -36,7 +36,15 @@ make the resulting ice cream a little gummy. I guess some gluten can still
 develop after baking.
 
 
-## Blood Orange Sorbet
+# Cake Batter Ice Cream
+
+Modifed [base custard] by not using less sugar and adding vanilla. Mix 1/3 C
+yellow cake mix into the heavy whipping cream before combining it with the hot
+custard. I don't add extra sugar because the flour will help keep ice crystals
+from forming.
+
+
+# Blood Orange Sorbet
 
 Taken from my gelato maker's instruction manual.
 
