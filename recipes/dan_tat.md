@@ -1,11 +1,11 @@
 # Dan Tat
 
 ## oil dough
- + 200g ap flour (~1.5 C)
- + 150g butter (~1.5 sticks)
- -- process till coarse
- + 250g shortening (~1.5 sticks)
- -- process till shortening is incorporated
+ + 150g ap flour (~1 C)
+ + 1 stick (8T) butter (~111g)
+ -- process until coarse
+ + 1 stick (8T) shortening (~183g)
+ -- process til shortening is incorporated
 
 = about 600g
   -- divide into two 300g packs
