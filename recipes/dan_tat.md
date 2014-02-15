@@ -1,5 +1,12 @@
 # Dan Tat
 
+The secret to my dough is that I don't clean my food processor bowl between the
+oil dough and the water dough so that I can get a little fat into my water dough.
+I also don't roll out my oil dough. It's mallable enough where I just squish it
+into a sheet in the plastic, and then unwrap it into my rolled out water dough.
+
+With my [tart tin](http://www.amazon.com/gp/product/B00CQKDOWI/?tag=crtobu-20), I
+find that I have to liberally grease it. Then dough releases very easily.
 
 ## oil dough
  + 150g ap flour (~1 C)
@@ -16,8 +23,7 @@
  + 3g shortening (re-use bowl and scrape to get the 3g shortening)
  -- pulse to combine
  + 75g cold water (probably a lot more because my place is so dry)
- -- process until dough just starts coming together
-
+ -- process until dough just starts coming together. Err on the dry side.
 
 ## pastry dough (oil dough, water dough)
 freeze to firm, make puff pastry (thirds, fourths, fourths)
