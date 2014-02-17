@@ -36,6 +36,18 @@ make the resulting ice cream a little gummy. I guess some gluten can still
 develop after baking.
 
 
+## Sweet Potato Ice Cream
+
+If you have extra pie filling, you can turn it into great ice cream! To counter the added
+water content of the filling, swap the cream/milk ratio and add extra sugar. Remember to strain!
+
+  + 1 C heavy cream
+  + yolks
+  + sweet potato pie filling
+  + 1/2 C milk
+  + add sugar to taste
+  + add additional cinnamon/nutmeg/vanilla to taste
+
 ## Green Tea Ice Cream
 
 Green tea powder (or matcha if you're fancy) never really dissolves. So try to use as little as possible.
