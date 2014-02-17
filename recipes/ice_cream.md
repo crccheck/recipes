@@ -36,6 +36,19 @@ make the resulting ice cream a little gummy. I guess some gluten can still
 develop after baking.
 
 
+## Green Tea Ice Cream
+
+Green tea powder (or matcha if you're fancy) never really dissolves. So try to use as little as possible.
+To counter, add extra egg yolks to bring up the richness.
+
+  + 1 C whole milk
+  + 4 yolks
+  + 1/4 C sugar
+  + 1/2 C heavy cream (this also brings down the temperature. If overrun is
+    desired, whip the cream first).
+  + add sugar to taste
+
+
 ## Blood Orange Sorbet
 
 Taken from my gelato maker's instruction manual.
