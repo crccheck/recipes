@@ -70,3 +70,18 @@ Taken from my gelato maker's instruction manual.
   + 1/2 C sugar
 
 mix and churn
+
+
+## Lemon Ice cream
+
+Based on http://www.seriouseats.com/recipes/2013/07/lemon-ice-cream-with-candied-lemon-recipe.html
+
+Make the custard:
+
+  + 1 C heavy cream
+  + 1/2 C half and half
+  + 3 egg yolks
+  + lemon zest
+  + 3/8 C sugar
+
+Let it cool. Then add the juice of 1 to 2 lemons prior to serving.
