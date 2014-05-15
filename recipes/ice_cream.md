@@ -44,7 +44,32 @@ custard. I don't add extra sugar because the flour will help keep ice crystals
 from forming.
 
 
-# Blood Orange Sorbet
+## Sweet Potato Ice Cream
+
+If you have extra pie filling, you can turn it into great ice cream! To counter the added
+water content of the filling, swap the cream/milk ratio and add extra sugar. Remember to strain!
+
+  + 1 C heavy cream
+  + yolks
+  + sweet potato pie filling
+  + 1/2 C milk
+  + add sugar to taste
+  + add additional cinnamon/nutmeg/vanilla to taste
+
+## Green Tea Ice Cream
+
+Green tea powder (or matcha if you're fancy) never really dissolves. So try to use as little as possible.
+To counter, add extra egg yolks to bring up the richness.
+
+  + 1 C whole milk
+  + 4 yolks
+  + 1/4 C sugar
+  + 1/2 C heavy cream (this also brings down the temperature. If overrun is
+    desired, whip the cream first).
+  + add sugar to taste
+
+
+## Blood Orange Sorbet
 
 Taken from my gelato maker's instruction manual.
 
@@ -53,3 +78,18 @@ Taken from my gelato maker's instruction manual.
   + 1/2 C sugar
 
 mix and churn
+
+
+## Lemon Ice cream
+
+Based on http://www.seriouseats.com/recipes/2013/07/lemon-ice-cream-with-candied-lemon-recipe.html
+
+Make the custard:
+
+  + 1 C heavy cream
+  + 1/2 C half and half
+  + 3 egg yolks
+  + lemon zest
+  + 3/8 C sugar
+
+Let it cool. Then add the juice of 1 to 2 lemons prior to serving.
