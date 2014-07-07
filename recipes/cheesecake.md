@@ -3,8 +3,15 @@
 * make sure to remove all air bubbles
 * 350 deg-F gives some nice brownage
 * add a ramekin filled with water to the oven
-* after baking and while still warm, run a knife around the edge so prevent
-  cracking
+* Crack prevention tips:
+  * Add a teaspoon of flour or corn starch to the mix
+  * Don't cook in a water bath because it will get into your spring form pan.
+    Instead, put the pan in a heavy saucepan/cast iron and then in the oven.
+  * Do not over-bake. If it looks gooey, it'll be fine because you're going to
+    serve it chilled. The raw ingredients are solid at room temp.
+  * After baking and while still warm, run a knife around the edge so prevent
+    cracking (about 20 minutes after)
+  * While cooling, cover with a cookie sheet so it cools evenly
 
 ## Oreo Crust
 + about 10 oz Oreos (store brand is fine)
@@ -78,20 +85,21 @@
 + 1 T cornstarch
 
 ## New York: graham cracker / 24-oz / sour cream
-## Cedar House: oreo / 16-oz / sour cream
+## Cedar House (Eric's mom's recipe): oreo / 16-oz / sour cream
 
 http://allrecipes.com/recipe/new-york-cheesecake/
 350 degrees
----- make a crust ----
+
 ## filling 1
 3 packages cream cheese
 + 1 C sugar
 + 4 eggs (1 at a time)
 + 1 T vanilla
 + 1 t cream of tartar
----- bake for 50 minutes ----
+-- bake for 50 minutes
+
 ## topping
 2 C sour cream
 + 1 t vanilla
 + 1/2 C sugar
----- bake for 5 minutes ----
+- bake for 5 minutes
