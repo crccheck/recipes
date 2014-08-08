@@ -93,3 +93,14 @@ Make the custard:
   + 3/8 C sugar
 
 Let it cool. Then add the juice of 1 to 2 lemons prior to serving.
+
+
+## Beer Ice Cream
+
+References:
+
+* http://www.americastestkitchenfeed.com/do-it-yourself/2012/08/homemade-beer-ice-cream/
+
+Variation from base:
+
+* Instead of 1C milk and 1/2C cream, use 1C cream and 1C of beer reduced to 1/2C.
