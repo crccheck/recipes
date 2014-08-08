@@ -103,4 +103,5 @@ References:
 
 Variation from base:
 
-* Instead of 1C milk and 1/2C cream, use 1C cream and 1C of beer reduced to 1/2C.
+* Instead of 1C milk and 1/2C cream, use 1C cream and 1C of beer reduced to 1/2C
+* Reduce the amount of sugar because alcohol will keep the texture smooth
