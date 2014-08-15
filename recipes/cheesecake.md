@@ -7,6 +7,7 @@
   * Add a teaspoon of flour or corn starch to the mix
   * Don't cook in a water bath because it will get into your spring form pan.
     Instead, put the pan in a heavy saucepan/cast iron and then in the oven.
+    This will slightly increase your baking time.
   * Do not over-bake. If it looks gooey, it'll be fine because you're going to
     serve it chilled. The raw ingredients are solid at room temp.
   * After baking and while still warm, run a knife around the edge so prevent
@@ -103,3 +104,15 @@ http://allrecipes.com/recipe/new-york-cheesecake/
 + 1 t vanilla
 + 1/2 C sugar
 - bake for 5 minutes
+
+
+## Chris's NY Cheesecake recipe
+
+My variation. Has less sugar and eggs and other "stuff" that others.
+
+3 packages cream cheese
++ 3/4 C sugar
++ 1 T vanilla
++ 3 eggs (1 at a time)
++ 1 C sour cream
+-- bake for 50 minutes
