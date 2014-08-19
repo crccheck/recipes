@@ -45,3 +45,12 @@ half-way through and don't try and bake two things at once.
      from pan. For more air flow, balance on a glass bottle.
   -- Continue to let it dry out for at least another hour. Otherwise, the
      surface gets sticky and loses its yummy caramelized bits.
+
+
+## Green Tea
+
+Variation:
+
+* sift 2 T green tea powder to the flour
+* substitute some of the sugar for honey in the egg whites
+* bake for 35 minutes
