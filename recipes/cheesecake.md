@@ -118,13 +118,28 @@ http://allrecipes.com/recipe/new-york-cheesecake/
 - bake for 5 minutes
 
 
-## Chris's NY Cheesecake recipe
+## Chris' NY Cheesecake recipe
 
-My variation. Has less sugar and eggs and other "stuff" that others.
+My variation. Has less sugar and eggs and other "stuff" that similar recipes.
 
-3 packages cream cheese
++ 3 packages cream cheese
 + 3/4 C sugar
 + 1 T vanilla
 + 3 eggs (1 at a time)
 + 1 C sour cream
--- bake for 50 minutes
+- bake for 50 minutes
+
+## Chris' Peanut Butter and Chocolate
+
+In a medium mixing bowl, melt some chocolate (about 4 T) in your preheating oven.
+
++ 3 packages of cream cheese
++ 3/4 C sugar
++ 1 t vanilla
++ 3 eggs (1 at a time)
+- move half of the batter(until it tastes right) to your mixing bowl with the melted chocolate and mix
++ about 4 T peanut butter into the remaining half and mix
+- dump the mixed peanut butter batter onto the crust
+- bake for 5 minutes
+- dump the chocolate into the peanut butter
+- smooth off the top and bake
