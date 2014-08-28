@@ -14,9 +14,21 @@
     cracking (about 20 minutes after)
   * While cooling, cover with a cookie sheet so it cools evenly
 
+
 ## Oreo Crust
-+ about 10 oz Oreos (store brand is fine)
-+ 1/8 lb melted butter
+
+My favorite crust is the Oreo crust. My favorite is when it's so thick you don't
+need a plate.
+
++ about 10 oz Oreos (two rows)
+- process lightly in a food processor until coarse
+- preheat oven to 350-deg F
+- put Oreo chunks into the bottom of a springform pan
+- put in preheating oven for about 10 minutes for the cream to soften
+- pull from oven and tamp down to form the crust
+
+Tip: I use the leftover corner of parchment paper wrapped on a steel bottle
+to tamp down the crust.
 
 
 ## Graham Cracker Crust
