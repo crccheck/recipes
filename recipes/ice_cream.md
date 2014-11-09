@@ -59,14 +59,10 @@ water content of the filling, swap the cream/milk ratio and add extra sugar. Rem
 ## Green Tea Ice Cream
 
 Green tea powder (or matcha if you're fancy) never really dissolves. So try to use as little as possible.
-To counter, add extra egg yolks to bring up the richness.
+A very rich base works better, so modify my base by flipping the milk/cream ratio and add at least one extra yolk.
 
-  + 1 C whole milk
-  + 4 yolks
-  + 1/4 C sugar
-  + 1/2 C heavy cream (this also brings down the temperature. If overrun is
-    desired, whip the cream first).
-  + add sugar to taste
+  + 1 t green tea powder
+  + my usual base, but with extra fat and extra yolks
 
 
 ## Blood Orange Sorbet
