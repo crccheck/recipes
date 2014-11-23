@@ -52,15 +52,20 @@ really mix together well with other apples.
 For a 9" pie [original source](http://allrecipes.com/recipe/sweet-potato-pie-i/)
 
 + 464g sweet potato
--- bake until soft
+- microwave until soft
+- scoop into a food processor
+- process until smooth
 + 1 stick (8T) butter
-+ 1 C sugar
++ 1 C sugar (to taste)
 + 1/2 C milk
 + 2 eggs
-+ 1/2 t ground nutmeg
-+ 1/2 t ground cinnamon
++ 1/2 t ground nutmeg (to taste)
++ 1/2 t ground cinnamon (to taste)
++ 1/3 t fresh grated ginger (to taste)
 + 1 t vanilla extract
 -- mix until smooth
+
+Notes: Make extra filling just to be safe. It freezes very well and also makes a great ice cream flavor.
 
 
 ## Free-Form Pear Gorgonzola
