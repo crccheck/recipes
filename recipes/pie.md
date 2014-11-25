@@ -1,6 +1,6 @@
 ## Pie Crust, double or weave
 
-+ 2.25 C Flour
++ 2 1/3 C AP flour
 + 2 sticks of frozen, cubed fat (butter, lard, shortening)
 + pinch of salt
 + pinch of sugar
@@ -16,6 +16,7 @@ Notes:
 * You'll know you've added enough water when the dough will barely hold itself together when you pinch it. This takes experience.
 * Don't over-process the butter. After you wrap it, you should see ~BB sized chunks of butter left. Controlling this will change how flaky your crust will turn out.
 * Err on having a little extra flour. When I used to do 2 C flour and 1 C butter, the pies would boil in their own butter and it would spill over the edge and make a smelly mess.
+* Use commercial plastic wrap. It's > 50% wider than what you'll find in grocery stores (17" vs 12"). It will make turning out and wrapping dough a lot easier
 
 ## Apple Filling
 
