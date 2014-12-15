@@ -8,11 +8,11 @@ To prep, let bananas go black and then store them in the freezer for at least tw
   + 1 t baking soda
 
 ### wet ingredients
-  + 1 stick melted butter
+  + 1 stick soft butter
   + 1 t vanilla extract
   + 2 eggs
   + 3/4 C brown sugar
-  + 5 bananas (ripened, water reduced out, microwaved on high 5 min, reduce juice)
+  + 5 bananas (ripened, water reduced out, microwaved on high 5 min, reduce juice, or frozen for weeks)
 
 ### banana bread
   * combine wet into dry ingredients, do not over-mix
