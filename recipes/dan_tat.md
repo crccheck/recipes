@@ -34,7 +34,7 @@ Based on: http://gwenskitchencreations.blogspot.com/2013/03/egg-tart-dan-tat.htm
   - put the oil dough on top then roll into thirds
   - then fourths
   - then fourths again
- 
+
 on the final roll, liberally flour the bottom. when placing the discs into the
 tart pan, make sure to put the flour side down. Liberally buttering the bottom of the pan
 will help the tarts release.
@@ -42,13 +42,14 @@ will help the tarts release.
 If you're making lots of batches, reserve the big chunks for the next batch of
 puff pastry dough (throw them in during the first folding).
 
+Yields 13 tarts when using a 3.5" cutter
 
 ## egg filling
 + 80g sugar
-+ 280 mL water
++ 280g water
 - make supersaturated solution and cool
   + 4 large eggs
-  + 80 mL half and half
+  + 80g half and half
   - combine and sieve
 
 
