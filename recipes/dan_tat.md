@@ -8,6 +8,8 @@ into a sheet in the plastic, and then unwrap it into my rolled out water dough.
 With my [tart tin](http://www.amazon.com/gp/product/B00CQKDOWI/?tag=crtobu-20), I
 find that I have to liberally grease it. Then dough releases very easily.
 
+Based on: http://gwenskitchencreations.blogspot.com/2013/03/egg-tart-dan-tat.html
+
 ## oil dough
  + 150g ap flour (~1 C)
  + 1 stick (8T) butter (~111g)
@@ -26,15 +28,19 @@ find that I have to liberally grease it. Then dough releases very easily.
  -- process until dough just starts coming together. Err on the dry side.
 
 ## pastry dough (oil dough, water dough)
-freeze to firm, make puff pastry (thirds, fourths, fourths)
- -- first roll (thirds), roll out the water dough. then smash the oil dough till
-    it is about 60% the area of the water dough. tuck the corners of the water
-    dough over the oil dough to form a packet and then fold into thirds.
-
+  - use wax paper to size and form the oil dough
+  - freeze to firm, make puff pastry
+  - roll out the water dough
+  - put the oil dough on top then roll into thirds
+  - then fourths
+  - then fourths again
+ 
 on the final roll, liberally flour the bottom. when placing the discs into the
-tart pan, make sure to put the flour side down. also use leftover crisco to
-grease the bottom of the pan. also reserve the big chunks for the next batch of
-pastry dough (throw them in during the first folding).
+tart pan, make sure to put the flour side down. Liberally buttering the bottom of the pan
+will help the tarts release.
+
+If you're making lots of batches, reserve the big chunks for the next batch of
+puff pastry dough (throw them in during the first folding).
 
 
 ## egg filling
