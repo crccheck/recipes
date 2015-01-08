@@ -19,10 +19,10 @@ Based on: http://gwenskitchencreations.blogspot.com/2013/03/egg-tart-dan-tat.htm
 
 ## water dough
 
- + 250g ap flour (~1.75C)
- + 25g sugar (~ 2 T)
- + 0.5 beaten egg
- + 3g shortening (re-use bowl and scrape to get the 3g shortening)
+ + 350g ap flour (~2.25C)
+ + 40g sugar
+ + 1 beaten egg
+ + shortening left over in the bowl
  -- pulse to combine
  + 75g cold water (probably a lot more because my place is so dry)
  -- process until dough just starts coming together. Err on the dry side.
@@ -42,7 +42,7 @@ will help the tarts release.
 If you're making lots of batches, reserve the big chunks for the next batch of
 puff pastry dough (throw them in during the first folding).
 
-Yields 13 tarts when using a 3.5" cutter
+Yields 24 tarts when rolled out to 1/2", cut using a 2 1/8" cutter, and rolling out to 3.5"
 
 ## egg filling
 + 80g sugar
@@ -52,6 +52,7 @@ Yields 13 tarts when using a 3.5" cutter
   + 80g half and half
   - combine and sieve
 
+Yields enough for 27 dan tat
 
 ## tart (pastry dough, egg filling)
  -- press disc into tart pan
