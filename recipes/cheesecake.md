@@ -56,6 +56,17 @@ to tamp down the crust.
 + 1 T vanilla
 + cream of tartar
 
+### 24 oz Nutella
++ 24 oz cream cheese (room temperature)
++ 2 eggs (one at a time)
++ 1/4 t salt
++ 1 t vanilla
++ 3 T whole milk
++ 13 oz jar of Nutella
+
+bake at a lower temperature since we're not looking to brown the top
+
+
 ## 32-oz filling (sour cream, 60 min):
 + 4 packages cream cheese
 + 1 1/2 C sugar
