@@ -28,8 +28,12 @@
 Modify the [base custard] with:
 
   + 1.5 glazed donuts
-  -- chopped to panko size
+  - freeze the donuts
+  - slice them into ~ 0.5cm slices
+  - process in a food processor until panko sized flakes
   + subtract sugar to taste
+
+You can keep these donut crumbs in the freezer for months.
 
 Add the donut after the the custard is made and strained. Adding it early will
 make the resulting ice cream a little gummy. I guess some gluten can still
