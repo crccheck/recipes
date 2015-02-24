@@ -104,9 +104,19 @@ bake at a lower temperature since we're not looking to brown the top
 + 3/8 C sugar
 + 1 t vanilla
 
-## Strawberry topping:
+### Strawberry topping (fresh)
++ 1 C roughly chop strawberries
+- simmer with sugar
+- break down half the strawberries with a potato masher
+- continue simmering until desired consistency reached
+
+### Strawberry topping (frozen)
 + 20 oz frozen strawberries
 + 1 T cornstarch
+
+### Ganache
++ 1/2 C warm cream
++ enough chocolate chips for the ganache to get thick at room temperature
 
 ## New York: graham cracker / 24-oz / sour cream
 ## Cedar House (Eric's mom's recipe): oreo / 16-oz / sour cream
