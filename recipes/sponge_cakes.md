@@ -52,3 +52,31 @@ half-way through and don't try and bake two things at once.
 * sift 2 T green tea powder to the flour
 * substitute some of the sugar for honey in the egg whites
 * bake for 35 minutes
+
+
+Roll Cake
+---------
+
+From [Cooking with dog - Matcha Roll Cake (Swiss Roll) 抹茶ロールケーキ 作り方レシピ](http://youtu.be/XNGNu20Upuw)
+
+#### Merengue
++ 4 Egg Whites
++ 40g Sugar (1.4 oz)
+
+#### Batter
++ 4 Egg Yolks
++ 40g Sugar (1.4 oz)
++ 40g Cake Flour (1.4 oz)
++ 1 T Matcha - Green Tea Powder, sifted into the cake flour
+
+#### Filling
++ 120ml Whipping Cream with 35% fat (4 fl oz)
++ 1 tbsp Sugar for whipped cream
++ 120g Anko - Sweet Bean Paste (4.2 oz)
++ 80g Sweetened Azuki Beans (2.8 oz)
+
+#### Topping
++ Powdered Sugar
+
+Baking Sheet: 26x36cm/10¼x14¼ in
+Thin Kraft or Bakery Paper
