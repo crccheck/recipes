@@ -69,9 +69,11 @@ From [Cooking with dog - Matcha Roll Cake (Swiss Roll) 抹茶ロールケーキ 
 + 40g Cake Flour (1.4 oz)
 + 1 T Matcha - Green Tea Powder, sifted into the cake flour
 
+Bake at 340 deg F for 24 minutes, rotating halfway through.
+
 #### Filling
 + 120ml Whipping Cream with 35% fat (4 fl oz)
-+ 1 tbsp Sugar for whipped cream
++ 1 T Sugar for whipped cream
 + 120g Anko - Sweet Bean Paste (4.2 oz)
 + 80g Sweetened Azuki Beans (2.8 oz)
 
