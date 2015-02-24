@@ -1,4 +1,4 @@
-# Angel Food Cake
+## Angel Food Cake
 
 Based on http://www.foodnetwork.com/recipes/alton-brown/angel-food-cake-recipe/index.html
 
@@ -47,9 +47,7 @@ half-way through and don't try and bake two things at once.
      surface gets sticky and loses its yummy caramelized bits.
 
 
-## Green Tea
-
-Variation:
+### Green Tea Variation:
 
 * sift 2 T green tea powder to the flour
 * substitute some of the sugar for honey in the egg whites
