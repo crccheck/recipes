@@ -88,12 +88,12 @@ Make the custard:
 
   + 1 C heavy cream
   + 1/2 C half and half
-  + 3 egg yolks
   + lemon zest
+  + 3 egg yolks
   + 3/8 C sugar
-
-Let it cool. Then add the juice of 1 to 2 lemons prior to serving.
-
+  - let it cool
+  + juice of 1 to 2 lemons
+  - mix
 
 ## Beer Ice Cream
 
