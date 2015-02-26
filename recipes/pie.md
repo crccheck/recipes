@@ -4,10 +4,9 @@
 + 224g (2 sticks) of frozen, cubed fat (butter, lard, shortening)
 + pinch of salt
 + pinch of sugar
--- process until butter is broken up (when adding fat, start with the harder fat [butter] then softer)
+- process until butter is broken up (when adding fat, start with the harder fat [butter] then softer)
 + ~6 T ice water a little past cornmeal stage
--- divide roughly equally into balls for the top and bottom crust. Mine turned
-   out to be 460g and 395g
+- For double crust, divide roughly equally into balls for the top and bottom crust. Mine turned out to be 460g and 395g
 
 Notes:
 
