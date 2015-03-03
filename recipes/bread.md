@@ -1,6 +1,7 @@
 ## Banana Bread, from America's Test Kitchen
 
-To prep, let bananas go black and then store them in the freezer for at least two weeks
+To prep bananas, let them go black and then store them in the freezer for at least two weeks.
+Or microwave on high for 5 minutes and then reduce the juice.
 
 ### dry ingredients
   + 1 3/4 C AP flour
@@ -12,7 +13,7 @@ To prep, let bananas go black and then store them in the freezer for at least tw
   + 1 t vanilla extract
   + 2 eggs
   + 3/4 C brown sugar
-  + 5 bananas (ripened, water reduced out, microwaved on high 5 min, reduce juice, or frozen for weeks)
+  + 5 very ripened bananas
 
 ### banana bread
   * combine wet into dry ingredients, do not over-mix
@@ -23,7 +24,8 @@ To prep, let bananas go black and then store them in the freezer for at least tw
 
 Notes:
 * mix will approximately double in volume
-* yields 5 mini-loaves, bakes in about 20 minutes
+* yields 5 to 6 mini-loaves, bakes in about 20 minutes
+* The top will start browning very quickly around 20 minutes. Pull it out too quick, and the top won't get a nice crust. But pull it out too soon, and the bread will get dry.
 
 To experiment:
   * butter and dust loaf pan(s) with sugar
