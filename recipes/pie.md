@@ -47,6 +47,22 @@ really mix together well with other apples.
 + 1/8 T almond extract
 
 
+Lemon Chess
+-----------
+
+half this when making mini-pies
+
++ 2 C sugar
++ 1 T AP flour
++ 1 T cornmeal
++ 4 eggs
++ 1 C half and half
++ 1 stick of melted butter
++ 1/4 C lemon juice
++ 3 T lemon zest
+
+based on http://allrecipes.com/recipe/bill-clintons-lemon-chess-pie/ and http://www.foodnetwork.com/recipes/lemon-chess-pie-recipe.html
+
 ## Sweet Potato Filling
 
 For a 9" pie [original source](http://allrecipes.com/recipe/sweet-potato-pie-i/)
