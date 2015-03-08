@@ -63,6 +63,24 @@ half this when making mini-pies
 
 based on http://allrecipes.com/recipe/bill-clintons-lemon-chess-pie/ and http://www.foodnetwork.com/recipes/lemon-chess-pie-recipe.html
 
+
+Pecan Pie
+---------
+
+again, half this when making mini-pies
+
++ 1/2 C sugar
++ 1 C dark corn syrup
++ 3 eggs
++ 3/2 C chopped pecans
++ 4 T butter
++ 1 t vanilla extract
++ 1/2 t ground gloves
++ 1/2 t ground allspice
++ 1 t cinnamon
++ pecan halves to top
+
+
 ## Sweet Potato Filling
 
 For a 9" pie [original source](http://allrecipes.com/recipe/sweet-potato-pie-i/)
