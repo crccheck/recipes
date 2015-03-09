@@ -67,19 +67,23 @@ based on http://allrecipes.com/recipe/bill-clintons-lemon-chess-pie/ and http://
 Pecan Pie
 ---------
 
-again, half this when making mini-pies
+again, half this when making mini-pies (will make 5 mini-pies)
 
 + 1/2 C sugar
 + 1 C dark corn syrup
 + 3 eggs
 + 3/2 C chopped pecans
-+ 4 T butter
++ 4 T (half a stick) soft butter
 + 1 t vanilla extract
++ 1 t cinnamon
 + 1/2 t ground gloves
 + 1/2 t ground allspice
-+ 1 t cinnamon
 + pecan halves to top
 
+### Variations
+
+1. Add whiskey
+2. Add chocolate chips
 
 ## Sweet Potato Filling
 
