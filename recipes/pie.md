@@ -71,7 +71,7 @@ again, half this when making mini-pies (will make 5 mini-pies)
 
 + 1/2 C sugar
 + 1 C dark corn syrup
-+ 3 eggs
++ 3 eggs (1 egg when recipe halved)
 + 3/2 C chopped pecans
 + 4 T (half a stick) soft butter
 + 1 t vanilla extract
