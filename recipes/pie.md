@@ -17,7 +17,8 @@ Notes:
 * Don't over-process the butter. After you wrap it, you should see ~BB sized chunks of butter left. Controlling this will change how flaky your crust will turn out.
 * Use commercial plastic wrap. It's > 50% wider than what you'll find in grocery stores (17" vs 12"). It will make turning out and wrapping dough a lot easier
 
-## Apple Filling
+Apple Filling
+-------------
 
 By far, my favorite filling. My favorite apples to use in single-apple pies (in roughly favorite to least order):
 
@@ -76,7 +77,7 @@ again, half this when making mini-pies (will make 5 mini-pies)
 + 4 T (half a stick) soft butter
 + 1 t vanilla extract
 + 1 t cinnamon
-+ 1/2 t ground gloves
++ 1/2 t ground cloves
 + 1/2 t ground allspice
 + pecan halves to top
 
@@ -85,7 +86,8 @@ again, half this when making mini-pies (will make 5 mini-pies)
 1. Add whiskey
 2. Add chocolate chips
 
-## Sweet Potato Filling
+Sweet Potato
+------------
 
 For a 9" pie [original source](http://allrecipes.com/recipe/sweet-potato-pie-i/)
 
@@ -106,7 +108,9 @@ For a 9" pie [original source](http://allrecipes.com/recipe/sweet-potato-pie-i/)
 Notes: Make extra filling just to be safe. It freezes very well and also makes a great ice cream flavor.
 
 
-## Free-Form Pear Gorgonzola
+Pear Gorgonzola Galette
+-----------------------
+
 + ~1.5 pears, sliced
 + ~1 T Gorgonzola cheese (to taste)
 + 2 T sugar (to taste)
