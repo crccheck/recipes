@@ -115,8 +115,9 @@ bake at a lower temperature since we're not looking to brown the top
 + 1 T cornstarch
 
 ### Ganache
-+ 1/2 C warm cream
-+ enough chocolate chips for the ganache to get thick at room temperature
++ 90 mL warm cream
+- heat in microwave for 45 seconds, then pour over...
++ 114 g chocolate chips
 
 ## New York: graham cracker / 24-oz / sour cream
 ## Cedar House (Eric's mom's recipe): oreo / 16-oz / sour cream
