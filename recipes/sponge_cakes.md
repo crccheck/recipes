@@ -7,8 +7,8 @@ too if you're going for a lemon angel food cake.
 
 ### Prep some superfine sugar
 + 1 3/4 C sugar
--- spin sugar in a food processor until it is superfine (about 1 minute)
--- split into two batches (see below)
+- spin sugar in a food processor until it is superfine (about 1 minute)
+- split into two batches (see below)
 
 ### Ingredients (dry)
 
@@ -27,25 +27,24 @@ beware of over-mixing.
 
 + 12 egg whites (about 1.5 C, the closer to room temperature the better)
 + 1/4 C warm water
--- beat to medium peaks
+- beat to medium peaks
 + 3/4 C superfine sugar
 + 1 t orange extract, or extract of your choice (+ 1.5 t lemon zest)
--- beat to stiff-ish peaks
--- fold in the dry ingredients
+- beat to stiff-ish peaks
+- fold in the dry ingredients
 
 ### Bake
 Do not open the oven door while it's baking. That means don't turn it around
 half-way through and don't try and bake two things at once.
 
-  -- Preheat oven to 350 degrees F.
-  -- load pan with the cake batter
-  -- smooth off the top
-  -- bake for 40 minutes
-  -- Cool upside-down on cooling rack for at least two hours before removing
-     from pan. For more air flow, balance on a glass bottle.
-  -- Continue to let it dry out for at least another hour. Otherwise, the
-     surface gets sticky and loses its yummy caramelized bits.
-
+- Preheat oven to 350 degrees F.
+- load pan with the cake batter
+- smooth off the top
+- bake for 40 minutes
+- Cool upside-down on cooling rack for at least two hours before removing
+  from pan. For more air flow, balance on a glass bottle.
+- Continue to let it dry out for at least another hour. Otherwise, the
+  surface gets sticky and loses its yummy caramelized bits.
 
 ### Green Tea Variation
 
@@ -55,7 +54,7 @@ half-way through and don't try and bake two things at once.
 
 ### Cocoa Variation
 
-* Substitute 1/4 C cocoa for flour
+* Substitute 1/4 C cocoa for flour for 2 T flour
 
 Roll Cake
 ---------
