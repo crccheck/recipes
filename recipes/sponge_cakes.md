@@ -47,12 +47,15 @@ half-way through and don't try and bake two things at once.
      surface gets sticky and loses its yummy caramelized bits.
 
 
-### Green Tea Variation:
+### Green Tea Variation
 
 * sift 2 T green tea powder to the flour
 * substitute some of the sugar for honey in the egg whites
 * bake for 35 minutes
 
+### Cocoa Variation
+
+* Substitute 1/4 C cocoa for flour
 
 Roll Cake
 ---------
