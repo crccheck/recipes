@@ -42,6 +42,14 @@ really mix together well with other apples.
 + additional sugar to taste
 * Cook until it's slightly softened. It will continue to soften in the oven. You can also keep this for several days in the fridge. If you know you're going to refrigerate, you can compensate by cooking it a bit further on the stove.
 
+## Blueberry filling
+
+Enough for six mini pies.
+
++ 24 oz fresh blueberries
++ sugar to taste
++ flour
+- cooked down to desired consistency
 
 ## Cherry Filling, from frozen cherries
 + 3 packs of frozen cherries (3 * 1.75 cups)
