@@ -105,3 +105,13 @@ Variation from base:
 
 * Instead of 1C milk and 1/2C cream, use 1C cream and 1C of beer reduced to 1/2C
 * Reduce the amount of sugar because alcohol will keep the texture smooth
+
+
+## Sugar research
+
+Ice cream hardness vs amount of sugar for basic vanilla base:
+
+| grams | result |
+|-------|--------|
+| 75    | hard, but scoopable with a good scooper |
+| 100   | soft, maybe too soft |
