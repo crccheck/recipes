@@ -16,5 +16,10 @@ In mixer:
 + 2 T olive oil
 + 1 t salt
 
+Yields two 12" crusts.
 
 Based on http://allrecipes.com/recipe/quick-and-easy-pizza-crust/
+
+### Results
+
+proof, punch down, then fridge (24h * 72h) - meh. turned out nice, bubbles too big.
