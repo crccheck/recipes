@@ -17,7 +17,7 @@
 
   + 1/2 C heavy cream (this also brings down the temperature. If overrun is
     desired, whip the cream first).
-  + add sugar to taste
+  + 90g sugar + additional to taste
   -- strain
   -- chill to freezing point
   -- churn
