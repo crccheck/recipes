@@ -68,6 +68,13 @@ A very rich base works better, so modify my base by flipping the milk/cream rati
   + 1 t green tea powder
   + my usual base, but with extra fat and extra yolks
 
+## Strawberry Ice Cream
+
+  - Make the regular base, but up the cream to at least half (half and half).
+  - Let it chill
+  + add about half a cup of chopped strawberries
+  - process with a stick blender
+  - strain and then freeze
 
 ## Blood Orange Sorbet
 
