@@ -103,6 +103,7 @@ bake at a lower temperature since we're not looking to brown the top
 + 1 pint sour cream
 + 3/8 C sugar
 + 1 t vanilla
+- stir by hand
 
 ### Strawberry topping (fresh)
 + 1 C roughly chop strawberries
