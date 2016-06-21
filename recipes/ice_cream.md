@@ -16,6 +16,11 @@
   - chill to freezing point
   - churn
 
+**Notes:**
+
+  * The more yolks, the richer the ice cream will taste
+  * If using ultra pasteurized cream, use as little as possible for best flavor
+
 
 # Donut Ice Cream
 
