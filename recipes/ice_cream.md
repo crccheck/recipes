@@ -1,26 +1,20 @@
-# Base Custard
-
-## yolks
-
-  + 2 egg yolks
-  -- whip until pale yellow
-  + 1/4 C sugar
-  -- whip for an additional 10 seconds
-
-## Custard (yolks)
+## Base Custard
+  + 2+ egg yolks
+  - whip until pale yellow
+  + 85 g sugar (this is the minimum amount of sugar before this recipe gets icy)
+  - whip again
 
   + 1 C whole milk
-  -- bring up to warm temp
-  + yolks
-  -- temper in yolks (optional, can just throw them in since the dairy isn't that hot)
-  -- continue raising temperature until thick (coats back of spoon)
+  - bring up to warm temp
+  + add yolks
+  - continue raising temperature until thick (coats back of spoon)
 
   + 1/2 C heavy cream (this also brings down the temperature. If overrun is
     desired, whip the cream first).
   + 90g sugar + additional to taste
-  -- strain
-  -- chill to freezing point
-  -- churn
+  - strain
+  - chill to freezing point
+  - churn
 
 
 # Donut Ice Cream
