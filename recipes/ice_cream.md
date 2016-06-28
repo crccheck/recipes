@@ -94,12 +94,14 @@ Make the custard:
 
   + 1 C heavy cream
   + 1/2 C half and half
-  + lemon zest
   + 3 egg yolks
   + 3/8 C sugar
+  + lemon zest
   - let it cool
   + juice of 1 to 2 lemons
   - mix
+
+NOTE: The acid cuts ultra-pasteurized dairy well. Mix in Lemon Oreo Thins for extra lemon punch and crunch
 
 ## Beer Ice Cream
 
