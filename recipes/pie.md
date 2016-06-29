@@ -59,16 +59,22 @@ Enough for six mini pies.
 Lemon Chess
 -----------
 
-half this when making mini-pies
+Makes 6 mini pies. Double this for a 9" crust
 
-+ 2 C sugar
-+ 1 T AP flour
-+ 1 T cornmeal
-+ 4 eggs
-+ 1 C half and half
-+ 1 stick of melted butter
-+ 1/4 C lemon juice
++ 1 C sugar
++ 1/2 T AP flour
++ 1/2 T cornmeal
++ 2 beaten eggs
++ 1/2 C half and half
++ 1/2 soft butter
++ 2 T lemon juice (about one lemon)
 + 3 T lemon zest
+
+NOTE:
+* blind bake the crust, and bake them tall
+* sprinkle some cornmeal on the bottom before filling
+* sprinkle some lemon zest on top after baking
+* works well with meringue
 
 based on http://allrecipes.com/recipe/bill-clintons-lemon-chess-pie/ and http://www.foodnetwork.com/recipes/lemon-chess-pie-recipe.html
 
