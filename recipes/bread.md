@@ -20,12 +20,16 @@ Or microwave on high for 5 minutes and then reduce the juice.
   + 1/2 C toasted walnuts
   * load into in loaf pan
   + dust with sugar
-  * 350 F for an hour, middle rack, rotate half-way through
+  * 350 F middle rack, rotate half-way through. Done when a tooth pick comes out clean.
+    mini loaves will take about 20 minutes, full loaf will take about an hour.
 
 Notes:
 * mix will approximately double in volume
-* yields 5 to 6 mini-loaves, bakes in about 20 minutes
+* yields 5 to 6 mini-loaves
 * The top will start browning very quickly around 20 minutes. Pull it out too quick, and the top won't get a nice crust. But pull it out too soon, and the bread will get dry.
+
+Tips:
+* Top with banana slices, or salt/sugar
 
 To experiment:
   * butter and dust loaf pan(s) with sugar

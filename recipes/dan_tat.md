@@ -13,7 +13,7 @@ Based on: http://gwenskitchencreations.blogspot.com/2013/03/egg-tart-dan-tat.htm
 ## oil dough
  + 150g ap flour (~1 C)
  + 1 stick (8T) butter (~111g)
- -- process until coarse
+ - process until coarse. If you don't do this, the dough will get lumpy.
  + 1 stick (8T) shortening (~183g)
  -- process til shortening is incorporated
 
