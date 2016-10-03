@@ -150,7 +150,7 @@ My variation. Has less sugar and eggs and other "stuff" that similar recipes.
 + 1 T vanilla
 + 3 eggs (1 at a time)
 + 1 C sour cream
-- bake for 50 minutes
+- bake for 50 minutes on the upper-middle rack
 
 ## Chris' Peanut Butter and Chocolate
 
