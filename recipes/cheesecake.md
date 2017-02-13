@@ -17,7 +17,7 @@
 
 ## Crusts
 
-### Oreo Crust
+### 9" Oreo Crust
 
 My favorite crust is the Oreo crust. My favorite is when it's so thick you don't
 need a plate.
@@ -32,10 +32,9 @@ need a plate.
 Tip: I use the leftover corner of parchment paper wrapped on a steel bottle
 to tamp down the crust.
 
-### Graham Cracker Crust
-+ 1 1/4 C graham crackers
-+ 1/4 C sugar
-+ 1/3 C butter
+### 9" Graham Cracker Crust
++ 1 1/4 C graham crackers (or 1 package or 18 squares)
++ 1/4 C butter
 
 
 ## Filling
@@ -131,8 +130,8 @@ My variation of the classic. Has less sugar and eggs and other "stuff" that simi
 + 3/4 C sugar
 + 1 T vanilla
 + 3 eggs (1 at a time)
-+ 1 C sour cream
-- bake for 50 minutes on the upper-middle rack
++ 8 oz. sour cream (one package)
+- bake for 45 minutes on the upper-middle rack
 
 ## Chris' Peanut Butter and Chocolate
 
