@@ -134,3 +134,26 @@ Pear Gorgonzola Galette
 -- sprinkle pears and cheese and sugar
 -- curl edges of pie crust on top (no waste!)
 -- bake at 375° F for about 45 minutes
+
+
+Chicken pot pie
+---------------
+
+You're basically just making a roux then throwing in a bunch of stuff. You'll need enough dough to make a 6 double crusts so either make more pie dough, or thinner sheets.
+
+- Disassemble a rotisserie chicken, you're going to be using half
+- Turn the bones into chicken stock
+- Chill the stock, once chilled, it should be gelatinous and you can scrape off the fat
+
+### Filling
++ 1/4 C butter
++ 6 T chopped onion (1 T per pie)
++ 1/3 C AP flour
+- After a minute, you'll have a blond roux w/ some onion
++ 1/2 C chicken stock
++ 1/3 C milk
++ 1 1/2 C vegetables (I like red potatoes, and some random frozen veggies)
++ Top off the chicken stock a bit to moisten
++ 1/2 rotisserie chicken, cubed
++ add chicken stock/milk until you liquid consistent/creaminess you desire
+- chill
