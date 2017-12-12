@@ -17,11 +17,16 @@ To prep bananas, let them go black and then store them in the freezer for at lea
 ### banana bread
   * combine wet into dry ingredients, do not over-mix
   + 1/2 stick soft butter
-  + 1/2 C toasted walnuts
+  + (optional mixins)
   * load into in loaf pan
-  + dust with sugar
+  + dust with sanding sugar and pinch of kosher salt
   * 350 F middle rack, rotate half-way through. Done when a tooth pick comes out clean.
     mini loaves will take about 20 minutes, full loaf will take about an hour.
+
+### Optional mixins
+  + 1/2 C toasted walnuts
+  + 1/2 C toasted pecans
+  + honey
 
 Notes:
 * mix will approximately double in volume
