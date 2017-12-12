@@ -32,5 +32,6 @@ Tips:
 * Top with banana slices, or salt/sugar
 
 To experiment:
-  * butter and dust loaf pan(s) with sugar
+  * reduce the oil a bit so it's not quite so moist
   * move to top rack the last 10 minutes
+  * butter and dust loaf pan(s) with sugar
