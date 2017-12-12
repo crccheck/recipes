@@ -1,7 +1,6 @@
-## Banana Bread, from America's Test Kitchen
+## Banana Bread (based on America's Test Kitchen)
 
 To prep bananas, let them go black and then store them in the freezer for at least two weeks.
-Or microwave on high for 5 minutes and then reduce the juice.
 
 ### dry ingredients
   + 1 3/4 C AP flour
@@ -9,19 +8,25 @@ Or microwave on high for 5 minutes and then reduce the juice.
   + 1 t baking soda
 
 ### wet ingredients
-  + 1 stick soft butter
+  + 1/2 C oil
   + 1 t vanilla extract
   + 2 eggs
-  + 3/4 C brown sugar
-  + 5 very ripened bananas
+  + 3/4 C dark brown sugar
+  + 5 very ripened bananas (1 1/2 C or 350g)
 
 ### banana bread
   * combine wet into dry ingredients, do not over-mix
-  + 1/2 C toasted walnuts
+  + 1/2 stick soft butter
+  + (optional mixins)
   * load into in loaf pan
-  + dust with sugar
+  + dust with sanding sugar and pinch of kosher salt
   * 350 F middle rack, rotate half-way through. Done when a tooth pick comes out clean.
     mini loaves will take about 20 minutes, full loaf will take about an hour.
+
+### Optional mixins
+  + 1/2 C toasted walnuts
+  + 1/2 C toasted pecans
+  + honey
 
 Notes:
 * mix will approximately double in volume
@@ -32,4 +37,6 @@ Tips:
 * Top with banana slices, or salt/sugar
 
 To experiment:
+  * reduce the oil a bit so it's not quite so moist
+  * move to top rack the last 10 minutes
   * butter and dust loaf pan(s) with sugar
