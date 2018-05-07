@@ -1,9 +1,9 @@
 ## Banana Bread (based on America's Test Kitchen)
 
-To prep bananas, let them go black and then store them in the freezer for at least two weeks.
+To prep bananas, let them go black and then store them in the freezer for at least two weeks. Let the bananas thaw and peel them into a 2 C measuring cup
 
 ### dry ingredients
-  + 1 3/4 C AP flour
+  + 1 1/2 C AP flour (equal to the volume of bananas)
   + 1/2 t salt
   + 1 t baking soda
 
@@ -13,10 +13,10 @@ To prep bananas, let them go black and then store them in the freezer for at lea
   + 2 eggs
   + 3/4 C dark brown sugar
   + 5 very ripened bananas (1 1/2 C or 350g)
+  + 1/2 stick soft butter
 
 ### banana bread
   * combine wet into dry ingredients, do not over-mix
-  + 1/2 stick soft butter
   + (optional mixins)
   * load into in loaf pan
   + dust with sanding sugar and pinch of kosher salt
