@@ -4,14 +4,14 @@ To prep bananas, let them go black and then store them in the freezer for at lea
 
 ### dry ingredients
   + 1 1/2 C AP flour (equal to the volume of bananas)
-  + 1/2 t salt
-  + 1 t baking soda
+  + 1/2 t salt (less if topping with salt)
+  + 1 t baking soda (at least)
 
 ### wet ingredients
-  + 1/2 C oil
+  + 3/4 C dark brown sugar
+  + 1/4 C oil
   + 1 t vanilla extract
   + 2 eggs
-  + 3/4 C dark brown sugar
   + 5 very ripened bananas (1 1/2 C or 350g)
   + 1/2 stick soft butter
 
