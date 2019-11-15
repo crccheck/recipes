@@ -1,40 +1,42 @@
 # Gumbo
 
-Start by making the roux over medium-low heat in cast iron
+Simple gumbo w/ ordinary ingredients. The base ingredients have too much salt so don't add more.
+
+Start by making the roux over medium-low heat in cast iron. You'll need 
 
 ## roux
-+ 1 stick of butter
-+ 3/4 C of flour
--- stir until peanut butter color and consistency
++ 1/2 stick of butter
++ about 1/4 C of flour
+- heat on the stove or in the oven
+- stir until peanut butter color and consistency
+- transfer roux for storage
 
-
--- Sautee vegetables
+## Sautee vegetables
 + 1 onion
-+ 2 bell pepper
++ 2 bell peppers
 + 6 ribs celery
 + 1 head garlic, peeled whole
--- add stock
+- add 64 oz chicken stock
 
--- add spices and season to taste
+## add spices and season to taste
 + Tony Chachere's
 + thyme
-+ 1 squire soy sauce
++ 1 T fish sauce
 
 ## Meat
 
 + chicken thighs
--- Transfer as much of the roux out as you can
--- Sear the chicken thighs in the remaining roux residue
--- cut into bite sized pieces
--- transfer to gumbo
--- crisp sausage
--- hold sausage
+- Transfer as much of the roux out as you can
+- Cut into bite sized chunks
+- Sear the chicken thighs in the remaining roux residue
+- Transfer to gumbo
+- Crisp sausage
 
--- simmer for an hour
+- Simmer for an hour
 
 When it's just about ready:
 
--- mix in roux
+- mix in roux
 + sausage
 + 1 jalapeno, sliced
 
