@@ -5,8 +5,8 @@
   - whip again
 
   + 1 C whole milk
-  - bring up to warm temp
-  + add yolks
+  - bring up to warm temp (don't let it boil)
+  + add yolks (temper if you want, I don't)
   - continue raising temperature until thick (coats back of spoon)
 
   + 1/2 C heavy cream (this also brings down the temperature. If overrun is
@@ -22,7 +22,7 @@
   * If using ultra pasteurized cream, use as little as possible for best flavor
 
 
-# Donut Ice Cream
+## Donut Ice Cream
 
 Modify the [base custard] with:
 
@@ -39,7 +39,7 @@ make the resulting ice cream a little gummy. I guess some gluten can still
 develop after baking.
 
 
-# Cake Batter Ice Cream
+## Cake Batter Ice Cream
 
 Modifed [base custard] by not using less sugar and adding vanilla. Mix 1/3 C
 yellow cake mix into the heavy whipping cream before combining it with the hot
@@ -58,6 +58,10 @@ water content of the filling, swap the cream/milk ratio and add extra sugar. Rem
   + 1/2 C milk
   + add sugar to taste
   + add additional cinnamon/nutmeg/vanilla to taste
+  
+## Tea Ice Cream
+
+Just seep some tea in the base before adding the yolks. The sugar and dairy will balance out any bitterness from over-steeping so steep away to get stronger flavor.
 
 ## Green Tea Ice Cream
 
