@@ -8,10 +8,10 @@
   - bring up to warm temp (don't let it boil)
   + add yolks (temper if you want, I don't)
   - continue raising temperature until thick (coats back of spoon)
+  - turn off stove
 
   + 1/2 C heavy cream (this also brings down the temperature. If overrun is
-    desired, whip the cream first).
-  + 90g sugar + additional to taste
+    desired, whip the cream first)
   - strain
   - chill to freezing point
   - churn
@@ -62,6 +62,8 @@ water content of the filling, swap the cream/milk ratio and add extra sugar. Rem
 ## Tea Ice Cream
 
 Just seep some tea in the base before adding the yolks. The sugar and dairy will balance out any bitterness from over-steeping so steep away to get stronger flavor.
+
+  + 2 tea bags (minimum)
 
 ## Green Tea Ice Cream
 
