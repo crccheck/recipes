@@ -13,3 +13,21 @@ From the manual:
   + 1 t active dry yeast
   - QUICK rise
   - MEDIUM crust
+
+## Basic white bread (starter)
+
+If I make bread more often, I don't want to be dependent on store yeast. Let's try maintaining a starter and using that instead.
+Combining the 1:2:3 starter:water:flour ratio (from https://cnz.to/tips-tricks/converting-yeast-based-recipes-to-use-a-sourdough-starter/) with the _Basic white bread_ recipe.
+Hopefully this works
+
+  + 168g water
+  + 1 T butter
+  + 1/2 t salt
+  + 253g bread flour
+  + 96g starter (meant to add 84g but spilled some extra)
+  + 15g (1.5 T) sugar
+  + 7g (1T) dry milk
+  - BASIC rise
+  - MEDIUM crust
+  
+For next time: remove the butter to try to get a lighter texture and more rise, and go to a darker crust
