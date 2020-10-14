@@ -21,13 +21,13 @@ Combining the 1:2:3 starter:water:flour ratio (from https://cnz.to/tips-tricks/c
 Hopefully this works
 
   + 168g water
-  + 253g bread flour
   + 1/2 t salt
-  + 87g starter
   + 15g (1.5 T) sugar
   + 7g (1T) dry milk
+  + 253g bread flour
+  - Form a well in the middle
+  + 87g starter (100g was too much)
   - BASIC rise
   - MEDIUM crust
   
-For next time: remove the butter to try to get a lighter texture and more rise, and go to a darker crust
 For next time: reduce water by a few grams
