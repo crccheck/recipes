@@ -31,3 +31,25 @@ size.
 
 Things to experiment with:
 - less sugar
+
+## Chocolate Chip
+
+Adapted from https://cooking.nytimes.com/recipes/1014826-quintessential-chocolate-chip-cookies
+
++ 2 sticks cold unsalted butter
+- beat until soft (~2min)
++ 200g sugar
++ 160g light brown sugar
++ 1/2 t salt
+- beat again
++ 2 eggs
++ 2 t vanilla
+- beat until just incorporated (~15s)
++ 370g AP flour
++ 1t baking soda
+- beat until just incorporated
++ ~450g chocolate chips/chunks
+- preheat oven to 350-deg F
+- scoop the dough
+- chill/freeze the dough
+- bake cookies from chilled/frozen (~12 minutes)
