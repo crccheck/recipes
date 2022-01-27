@@ -49,8 +49,8 @@ Serve over rice and garnish with green onion
 
   - soak beans overnight
   - rinse
-  + 1:4 ratio of beans to water
-  - pressure cook for 6 minutes
+  + 1:3 ratio of beans to water
+  - pressure cook for 8 minutes
   + add sugar to taste
 
 # Tangyuan
