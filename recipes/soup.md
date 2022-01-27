@@ -45,14 +45,17 @@ When it's just about ready:
 Serve over rice and garnish with green onion
 
 
-# Red Bean Soup
-  -- soak beans
-  + pressure cook for 6 minutes
+# Red Bean Soup 红豆汤
 
+  - soak beans overnight
+  - rinse
+  + 1:4 ratio of beans to water
+  - pressure cook for 6 minutes
+  + add sugar to taste
 
 # Tangyuan
 
-Based on:http://www.instructables.com/id/Tangyuan-Glutinous-rice-dumplings-in-sweet-soup/step3/Dough/
+Based on: http://www.instructables.com/id/Tangyuan-Glutinous-rice-dumplings-in-sweet-soup/step3/Dough/
 
   + 2:1 ratio rice flour to water
   + 1 t oil for every cup of water
