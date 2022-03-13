@@ -49,7 +49,7 @@ Adapted from https://cooking.nytimes.com/recipes/1014826-quintessential-chocolat
 + 1t baking soda
 - beat until just incorporated
 + ~450g chocolate chips/chunks
-- preheat oven to 350-deg F
 - scoop the dough
 - chill/freeze the dough
-- bake cookies from chilled/frozen (~12 minutes)
+
+From frozen, cooks in 15 minutes @ 350-def F
