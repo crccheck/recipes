@@ -9,7 +9,16 @@
 
 ## Oil Rice
 
-1 cup of sweet rice yields... ??
-presoak the rice soak for hours.
+presoak the rice soak overnight
 
-  + 2:1 ratio water to sweet rice
+  + 3:2 ratio water to sweet rice
+
+Additions:
+
+  + sauteed garlic
+  + crisped sausage
+  + peanuts soaked overnight
+  + mushrooms
+
+
+Portion: 1/2 C per serving
