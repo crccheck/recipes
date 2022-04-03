@@ -2,7 +2,7 @@
 
 Simple gumbo w/ ordinary ingredients. I used to make my own spice blend, but over time, I focused more on having the chicken stock base. The base ingredients have too much salt so don't add more.
 
-Start by making the roux over medium-low heat in cast iron. You'll need 
+Start by making the roux over medium-low heat in cast iron. You'll need
 
 ## roux
 + 1/2 stick of butter
@@ -43,19 +43,3 @@ When it's just about ready:
 + 1 jalapeno, sliced
 
 Serve over rice and garnish with green onion
-
-
-# Red Bean Soup 红豆汤
-
-  - soak beans overnight
-  - rinse
-  + 1:3 ratio of beans to water
-  - pressure cook for 8 minutes
-  + add sugar to taste
-
-# Tangyuan
-
-Based on: http://www.instructables.com/id/Tangyuan-Glutinous-rice-dumplings-in-sweet-soup/step3/Dough/
-
-  + 2:1 ratio rice flour to water
-  + 1 t oil for every cup of water
