@@ -3,11 +3,15 @@
 
   - soak beans overnight
   - rinse
-  + 1:3 ratio of beans to water
-  - instapot "bean"
-  + add sugar to taste
+  + 5:2 ratio of water to beans minimum. This will get you a very thick soup
+  - Instapot "bean" setting (40 minutes)
+  + add sugar to taste (~1T per serving)
 
 Portion: 1/4 C bean per serving
+
+## Baby tapioca
+
+Add 1/8 C per serving baby tapioca minimum. It cooks very fast. Put Instapot to "saute", add baby tapioca, and turn off after a few minutes
 
 # Peanut soup 花生湯
 
