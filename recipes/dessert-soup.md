@@ -1,5 +1,5 @@
 
-# Red Bean Soup 红豆汤
+# Red Bean Soup 紅豆湯
 
   - soak beans overnight
   - rinse
