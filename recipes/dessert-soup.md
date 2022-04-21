@@ -3,9 +3,10 @@
 
   - soak beans overnight
   - rinse
-  + 5:2 ratio of water to beans minimum. This will get you a very thick soup
+  + 5:2 ratio of water to beans minimum. This will get you a paste-like consistency. You can add more water at any time to get the desired consistency.
   - Instapot "bean" setting (40 minutes)
   + add sugar to taste (~1T per serving)
+  - Optionally... process partially with a stick blender to smooth/thicken
 
 Portion: 1/4 C bean per serving
 
