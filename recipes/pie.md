@@ -5,7 +5,7 @@
 + pinch of salt
 + 1 T sugar
 - process until butter is broken up (when adding fat, start with the harder fat [butter] then softer [shortening])
-+ ~6 T ice water/vodka until it gets a little past cornmeal stage
++ ~175 mL ice water/vodka until it gets a little past cornmeal stage
 - For double crust, divide roughly equally into balls for the top and bottom crust. Mine turned out to be 460g and 395g
 
 Notes:
@@ -20,15 +20,18 @@ Notes:
 Apple Filling
 -------------
 
-By far, my favorite filling. My favorite apples to use in single-apple pies (in roughly favorite to least order):
+By far, my favorite filling. My favorite apples to use in single-apple pies (in
+roughly favorite to least order):
 
 * Pink Lady
 * Gala
 * Jonagold
 * Granny Smith
 
-When mixing apples, I *do* recommend throwing in some Granny Smiths because their tart flavor and firm texture
-really mix together well with other apples.
+Slice apples along the axial plane for consistent small pieces.
+
+When mixing apples, feel free to throw in some Granny Smiths because their tart
+flavor and firm texture really complement other apples.
 
 + 1 T lemon juice (at least, add more to taste) to a mixing bowl
 + many apples, peeled and sliced. toss them into the mixing bowl with the lemon juice to prevent browning (not that it really matters)
@@ -52,8 +55,16 @@ Enough for six mini pies.
 - cooked down to desired consistency
 
 ## Cherry Filling, from frozen cherries
-+ 3 packs of frozen cherries (3 * 1.75 cups)
-+ 1/8 T almond extract
++ 2 x 12 oz package of frozen tart cherries
++ 4 t flour
+- bring to low simmer
+- pull off cherries with a slotted spoon
+- reduce remaining cherry juice and sprinkle additional flour if needed
+- combine
++ 1/2 t almond extract
+- cool
+
+Yields 2 C of filling, which is enough for 6 mini pies.
 
 
 Lemon Chess
@@ -63,7 +74,7 @@ Makes 6 mini pies. Double this for a 9" crust
 
 + 3/4 C sugar
 + 1/2 T AP flour
-+ 1/2 T cornmeal (plus additional cornmeal for later)
++ 1/2+ T cornmeal (plus additional cornmeal for later)
 + 2 beaten eggs
 + 1/2 C dairy (at least whole milk)
 + 4 T soft butter
